@@ -17,3 +17,5 @@ por mes en el año
 3. Separe los datos de ventas de cada mes y por cada 
 mes genere un nuevo archivo excel, el excel nuevo 
 contendrá las ventas solo de ese mes
+
+##### Da click en el archivo **TAREA 2 MODULO 6.IPYNB**
