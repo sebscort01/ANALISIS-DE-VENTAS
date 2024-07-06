@@ -1,5 +1,5 @@
 # ANALISIS-DE-VENTAS
-Análisis de ventas realizado en la segunda clase del diplomado de python x UVM
+Análisis de ventas realizado en la segunda clase del modulo 6 del diplomado de python x UVM
 
 
 El objetivo de este proyecto es realizar un análisis de ventas anuales contenidos en un archivo csv, a continuación se presentan las instrucciones dadas: 
